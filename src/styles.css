@@ -1,1 +1,100 @@
 /* You can add global styles to this file, and also import other style files */
+.nav-link {
+    color: aliceblue;
+}
+
+.btn-primary {
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 54px;
+    border-radius: 30px;
+    background: #DBAF70;
+    border: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+}
+
+.btn-primary:hover {
+    background: #CE9132;
+    color: #000000;
+}
+
+
+
+.overlay-text {
+
+    text-align: center
+}
+
+p {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: normal;
+
+}
+
+h1 {
+    font-size: 54px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.4px;
+}
+
+h2 {
+    font-size: 30px;
+    /* font-weight: bold; */
+    line-height: normal;
+    letter-spacing: 1.20px;
+}
+h3 {
+    font-size: 44px;
+    font-weight: 600;
+    line-height: normal;
+    /* letter-spacing: 1.7px; */
+}
+
+.bg-color-page-2 {
+    background-color: #7c3626;
+    color: white;
+}
+
+.bg-color-page-3 {
+    background-color: #ffffff;
+}
+
+.bg-color-page-4 {
+    background-color: #FFEED4;
+}
+
+.card {
+    background-color: #f8E1C0;
+    border-color: #f8E1C0;
+
+}
+
+.bg-color-page-6-footer {
+    background-color: #000000;
+    padding: 40px;
+}
+
+.testimonial {
+    border-radius: 50%;
+    max-width: 150px;
+    height: 150px;
+
+}
+
+.custom-list {
+    text-emphasis-color: white;
+    /* font-weight: bold; */
+    font-size: 130%;
+}
+
+.horizontal-line {
+    border: none;
+    height: 2px;
+    background-color: #dbaf70;
+}
